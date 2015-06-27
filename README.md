@@ -242,3 +242,9 @@ these [amazing people](https://github.com/coto/gae-boilerplate/graphs/contributo
 + [f1shear](https://github.com/f1shear)
 + [presveva](https://github.com/presveva)
 + [Sorced-Jim](https://github.com/sorced-Jim)
+
+
+Added By Mannir
+cd ~/git
+git clone https://github.com/dlitz/pycrypto.git && cd pycrypto
+sudo python setup.py install --install-lib /Applications/GoogleAppEngineLauncher.app/Contents/Resources/GoogleAppEngine-default.bundle/Contents/Resources/google_appengine
